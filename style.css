@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body {
+  
+	background-color: #578f66;
+  
+}
+
+h1 {
+	
+font-family: 'Indie Flower', cursive;
+  font-size: 50pt;
+  color: white;
+  
+}
+h2 {
+  color: white;
+  font-family: 'Dosis', sans-serif;
+	font-family: 'Indie Flower', cursive;
+	font-size: 25pt;
+  
+}
+
+img {
+  border-radius: 50%;
+  width: 500px;
+  height: 500px;
+}
+
+a:link {
+  background-color: transparent;
+  padding: 10px;
+  font-weight: bold;
+  color: white;
+  border-color: white;
+  border-style: none;
+  font-size: 20pt;
+  font-family: 'Indie Flower', cursive;
+	text-decoration: none;
+}
+
+a:visited {
+ background-color: transparent;
+  padding: 10px;
+  font-weight: bold;
+  color: white;
+  border-color: white;
+  border-style: none;
+  font-size: 20pt;
+  font-family: 'Indie Flower', cursive;
+	text-decoration: none;
+}
+
+a:hover {
+ background-color: transparent;
+  padding: 10px;
+  font-weight: bold;
+  color: white;
+  border-color: white;
+  border-style: none;
+  font-size: 20pt;
+  font-family: 'Indie Flower', cursive;
+	text-decoration: none;
+}
+
+a:active {
+  background-color: transparent;
+  padding: 10px;
+  font-weight: bold;
+  color: white;
+  border-color: white;
+  border-style: none;
+  font-size: 20pt;
+  font-family: 'Indie Flower', cursive;
+	text-decoration: none;
+}
+
+div{
+	font-family: 'Indie Flower' cursive;
+	
+}
