@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
 
 body {
   
@@ -15,16 +16,38 @@ font-family: 'Indie Flower', cursive;
 }
 h2 {
   color: white;
-  font-family: 'Dosis', sans-serif;
 	font-family: 'Indie Flower', cursive;
 	font-size: 25pt;
   
 }
 
+h3#DogWalking {
+	color: white;
+	font-family: 'Indie Flower', cursive;
+	font-size: 3vw;
+}
+
+h3#DoggieDaycare {
+	color: white;
+	font-family: 'Indie Flower', cursive;
+	font-size: 3vw;
+}
+
+h3#Boarding{
+	color: white;
+	font-family: 'Indie Flower', cursive;
+	font-size: 3vw;
+}
+p{
+	font-size: 2vw;
+	font-family: 'Raleway', sans-serif;
+	color: white;
+}
 img {
   border-radius: 50%;
   width: 500px;
   height: 500px;
+ filter: opacity(0.7); 
 }
 
 a:link {
